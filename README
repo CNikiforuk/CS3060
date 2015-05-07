@@ -1,0 +1,21 @@
+Author: Carlos Nikiforuk
+CS 3060 Image Processing Project
+Date: April 2014
+
+https://github.com/CNikiforuk/CS3130/tree/master/project
+
+--------------------Description---------------------
+
+Java Image Processing program. 
+
+How to use the program:
+
+1. Load project into netbeans and run.
+
+
+--------------Additional Information----------------
+
+Features include:
+
+Point transforms, fourier techniques, morphological transforms, various image masking(low pass, high pass, laplacian, etc.). Binary, logical, and statistical image operations, and more.
+
