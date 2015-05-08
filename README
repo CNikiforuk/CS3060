@@ -19,3 +19,6 @@ Features include:
 
 Point transforms, fourier techniques, morphological transforms, various image masking(low pass, high pass, laplacian, etc.). Binary, logical, and statistical image operations, and more.
 
+ALSO HAS OBJECT AND LETTER RECOGNITION (very basic). 
+Program will try to identify a letter or object that you show it when it is in Object identification mode.
+It stores data in text files and will learn as you show it more objects.
